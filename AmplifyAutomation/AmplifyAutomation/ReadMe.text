@@ -1,0 +1,38 @@
+William Neal AmplifyAutomation QA Example for Interview.
+
+
+Alright so basic overview, I am doing a small short demo of some test automation for Amplify 
+I made an NUnit 3 test project 
+
+_______________________________________________________________________________
+In my console I used the following commands
+
+Install-Package Selenium.WebDriver - This is grabbing selenium
+
+Install-Package Selenium.WebDriver.ChromeDriver - This is my actual web driver
+________________________________________________________________________________
+
+Install-Package SpecFlow.NUnit
+Install-Package SpecFlow.Tools.MsBuild.Generation
+
+This is for the gherkin I intend to use later
+
+_________________________________________________________________________________
+
+Install-Package NUnit3TestAdapter
+
+This is just an adapter so the project will run
+
+_________________________________________________________________________________
+
+Alright cool looks like we are set up here. Console is showing everything installed just fine.
+
+Next piece I did was build out my folders, I am doing a simple
+Drivers/Features/Locators/SD's and Utils set up.
+This is just a sample not a full blow automation set up
+
+_________________________________________________________________________________
+
+
+
+
