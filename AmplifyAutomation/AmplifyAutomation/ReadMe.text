@@ -33,6 +33,14 @@ This is just a sample not a full blow automation set up
 
 _________________________________________________________________________________
 
+Tried to do commit but ran into some issues with git
 
+Built out git ignore .txt but still was getting error:
+
+Git failed with a fatal error.
+error: open(".vs/Amplify.NETQA/FileContentIndex/39ac97b9-e9d3-41e0-be22-815128ee29aa.vsidx"): Permission denied
+fatal: Unable to process path .vs/Amplify.NETQA/FileContentIndex/39ac97b9-e9d3-41e0-be22-815128ee29aa.vsidx 
+
+Decided to migrate to github desktop to help mitigate issue
 
 
