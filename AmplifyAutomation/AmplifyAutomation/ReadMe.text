@@ -43,4 +43,11 @@ fatal: Unable to process path .vs/Amplify.NETQA/FileContentIndex/39ac97b9-e9d3-4
 
 Decided to migrate to github desktop to help mitigate issue
 
+_________________________________________________________________________________
 
+Github desktop helped briefly but ultimately doesn't integrate well with 2022 community. works much better on enterprise for some reason
+
+_________________________________________________________________________________
+
+Alright spending some time throwing together a quick config file, my first step definitions page, a data helper and some wait
+helpers so I dont need to throw thread.sleeps everywhere
