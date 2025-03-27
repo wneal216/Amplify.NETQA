@@ -3,10 +3,12 @@
     "",
     "\\AmplifyAutomation",
     "\\AmplifyAutomation\\AmplifyAutomation",
+    "\\AmplifyAutomation\\AmplifyAutomation\\Drivers",
     "\\AmplifyAutomation\\AmplifyAutomation\\Features",
+    "\\AmplifyAutomation\\AmplifyAutomation\\Locators\\LandingPage",
     "\\AmplifyAutomation\\AmplifyAutomation\\StepDefinitions",
     "\\AmplifyAutomation\\AmplifyAutomation\\Utils"
   ],
-  "SelectedNode": "\\AmplifyAutomation\\AmplifyAutomation\\.gitignore",
+  "SelectedNode": "\\AmplifyAutomation\\AmplifyAutomation\\Utils\\WaitHelpers.cs",
   "PreviewInSolutionExplorer": false
 }
