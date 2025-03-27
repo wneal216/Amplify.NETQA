@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nealw\\source\\repos\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj": {}
+    "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nealw\\source\\repos\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj": {
+    "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nealw\\source\\repos\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj",
+        "projectUniqueName": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj",
         "projectName": "AmplifyAutomation",
-        "projectPath": "C:\\Users\\nealw\\source\\repos\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj",
+        "projectPath": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj",
         "packagesPath": "C:\\Users\\nealw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nealw\\source\\repos\\AmplifyAutomation\\AmplifyAutomation\\obj\\",
+        "outputPath": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"

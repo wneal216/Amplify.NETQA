@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "AmplifyAutomation\\AmplifyAutomation\\StepDefinitions\\BasePageSteps.cs",
               "ToolTip": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\StepDefinitions\\BasePageSteps.cs",
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation\\StepDefinitions\\BasePageSteps.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T04:29:25.681Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation\\Utils\\config.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T04:30:08.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T04:30:08.401Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation\\Utils\\TestDataHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T04:30:22.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T04:30:22.311Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation\\Utils\\WaitHelpers.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T04:30:32.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T04:30:32.268Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation\\Features\\BasePage.feature",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-27T04:28:16.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T04:28:16.584Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation\\ReadMe.text",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-27T03:52:17.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T03:52:17.289Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation\\Locators\\LandingPage\\BasePage.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T03:21:13.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T03:21:13.863Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation\\Locators\\LandingPage\\TaskBar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T03:21:00.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T03:21:00.989Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation\\Drivers\\DriverFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T03:13:07.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T03:13:07.387Z"
             }
           ]
         }

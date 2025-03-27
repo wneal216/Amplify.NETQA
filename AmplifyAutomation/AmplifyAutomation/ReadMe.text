@@ -51,3 +51,36 @@ ________________________________________________________________________________
 
 Alright spending some time throwing together a quick config file, my first step definitions page, a data helper and some wait
 helpers so I dont need to throw thread.sleeps everywhere
+
+_________________________________________________________________________________
+
+Alright couple build issues, first I didnt close the brackets in Data Helper, easy fix.
+
+Also in my BasePageSteps.cs is giving my problems for this:
+
+        public void GreenStartStickerIsVisible()
+        {
+            GreenStartSticker.IsVisible = true;
+        }
+
+Some kind of issue with IsVisible.
+
+Yeah I messed up I have been using playwright/Python for too long now and forgot symantics. IsVisible is for Pytest/Playwright
+
+.Displayed is for selenium and C#. Symantics and language can be easily mixed up. 
+
+_________________________________________________________________________________
+
+Alright another build issue. 
+
+The name 'ExpectedConditions' does not exist in the current context 
+
+For my DataHelper page, seems like a simple nuget package problem. 
+
+DotNetSeleniumExtras.WaitHelpers seems to have made the build pass
+
+_________________________________________________________________________________
+
+Had a small config issue where I had thrown in a nonsense URL before adding in my baseURL. 
+
+Test ran with success !
