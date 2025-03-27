@@ -1,0 +1,74 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+TestResults/
+*.log
+
+# Ignore Rider/Resharper settings
+.idea/
+*.DotSettings
+_ReSharper*/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Ignore configuration files
+appsettings.*.json
+
+# Ignore Selenium WebDriver binaries if stored locally
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+
+# Ignore screenshots, videos, or test artifacts
+*.png
+*.jpg
+*.mp4
+*.avi
+*.har
+*.zip
+results/
+
+# Ignore coverage reports
+coverage/
+coverage*.json
+lcov-report/
+*.coverage
+*.coveragexml
+
+# Ignore temporary or cache files
+*.tmp
+*.cache
+*.db
+*.sqlite
+
+# Ignore user-specific settings
+*.vspscc
+*.vssscc
+*.userprefs
+*.sln.docstates
+
+# Ignore custom config or secrets
+secrets.json
+.env
+
+# Ignore logs
+*.log
+Logs/
+log/
+
+# Ignore JetBrains IDE stuff (if ever used)
+.idea/
+*.iml
+
+# Ignore test project stuff
+SpecFlowTestResults/
+ReportOutput/

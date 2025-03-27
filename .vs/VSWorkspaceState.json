@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AmplifyAutomation",
+    "\\AmplifyAutomation\\AmplifyAutomation",
+    "\\AmplifyAutomation\\AmplifyAutomation\\Features",
+    "\\AmplifyAutomation\\AmplifyAutomation\\StepDefinitions",
+    "\\AmplifyAutomation\\AmplifyAutomation\\Utils"
   ],
+  "SelectedNode": "\\AmplifyAutomation\\AmplifyAutomation\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
