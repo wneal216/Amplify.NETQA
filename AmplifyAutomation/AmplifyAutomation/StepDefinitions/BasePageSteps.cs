@@ -3,6 +3,7 @@ using OpenQA.Selenium;
 using NUnit.Framework;
 using AmplifyAutomation.Locators;
 using AmplifyAutomation.Drivers;
+using AmplifyAutomation.Utils;
 
 namespace AmplifyAutomation.StepDefinitions
 {
@@ -23,8 +24,8 @@ namespace AmplifyAutomation.StepDefinitions
 		[Given(@"the user is on the landing page")]
 		public void GivenTheUserIsOnTheLandingPage()
 		{
-			driver.Navigate().GoToUrl("https://your-website.com");
-		}
+			driver.Navigate().GoToUrl(Config.BaseUrl);
+        }
 
 		[When(@"the user clicks the Connect With an Expert button")]
 		public void WhenTheUserClicksTheConnectWithAnExpertButton()
@@ -38,5 +39,4 @@ namespace AmplifyAutomation.StepDefinitions
 			Assert.IsTrue(basePage.IsGreenStartStickerVisible(), "Green start sticker was not visible.");
 		}
 	}
-}
 }

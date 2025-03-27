@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "U2jn6puLeIg=",
+  "dgSpecHash": "o2d5fh5F3gI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nealw\\source\\repos\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj",
+  "projectFilePath": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nealw\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\nealw\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\nealw\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\nealw\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
     "C:\\Users\\nealw\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\nealw\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

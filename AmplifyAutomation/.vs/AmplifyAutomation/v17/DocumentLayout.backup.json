@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\stepdefinitions\\basepagesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|solutionrelative:amplifyautomation\\stepdefinitions\\basepagesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\utils\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|solutionrelative:amplifyautomation\\utils\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\readme.text||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|solutionrelative:amplifyautomation\\readme.text||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|solutionrelative:amplifyautomation\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\amplifyautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|solutionrelative:amplifyautomation\\amplifyautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\utils\\waithelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|solutionrelative:amplifyautomation\\utils\\waithelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\locators\\landingpage\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|solutionrelative:amplifyautomation\\locators\\landingpage\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\utils\\testdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|solutionrelative:amplifyautomation\\utils\\testdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|solutionrelative:amplifyautomation\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB17C719-D39C-4192-AC43-8B5CD3DB5652}|AmplifyAutomation\\AmplifyAutomation.csproj|c:\\users\\nealw\\source\\repos\\wneal216\\amplify.netqa\\amplifyautomation\\amplifyautomation\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,23 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "config.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Utils\\config.cs",
+              "RelativeDocumentMoniker": "AmplifyAutomation\\Utils\\config.cs",
+              "ToolTip": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Utils\\config.cs",
+              "RelativeToolTip": "AmplifyAutomation\\Utils\\config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:51:20.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaitHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Utils\\WaitHelpers.cs",
+              "RelativeDocumentMoniker": "AmplifyAutomation\\Utils\\WaitHelpers.cs",
+              "ToolTip": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Utils\\WaitHelpers.cs",
+              "RelativeToolTip": "AmplifyAutomation\\Utils\\WaitHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:40:12.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Locators\\LandingPage\\BasePage.cs",
+              "RelativeDocumentMoniker": "AmplifyAutomation\\Locators\\LandingPage\\BasePage.cs",
+              "ToolTip": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Locators\\LandingPage\\BasePage.cs",
+              "RelativeToolTip": "AmplifyAutomation\\Locators\\LandingPage\\BasePage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:30:42.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestDataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Utils\\TestDataHelper.cs",
+              "RelativeDocumentMoniker": "AmplifyAutomation\\Utils\\TestDataHelper.cs",
+              "ToolTip": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Utils\\TestDataHelper.cs",
+              "RelativeToolTip": "AmplifyAutomation\\Utils\\TestDataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:29:48.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasePageSteps.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\StepDefinitions\\BasePageSteps.cs",
+              "RelativeDocumentMoniker": "AmplifyAutomation\\StepDefinitions\\BasePageSteps.cs",
+              "ToolTip": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\StepDefinitions\\BasePageSteps.cs",
+              "RelativeToolTip": "AmplifyAutomation\\StepDefinitions\\BasePageSteps.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAywBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:29:24.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DriverFactory.cs",
               "DocumentMoniker": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Drivers\\DriverFactory.cs",
               "RelativeDocumentMoniker": "AmplifyAutomation\\Drivers\\DriverFactory.cs",
               "ToolTip": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\Drivers\\DriverFactory.cs",
               "RelativeToolTip": "AmplifyAutomation\\Drivers\\DriverFactory.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T02:48:20.664Z"
+              "WhenOpened": "2025-03-27T02:48:20.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AmplifyAutomation.csproj",
               "DocumentMoniker": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\AmplifyAutomation.csproj",
               "RelativeDocumentMoniker": "AmplifyAutomation\\AmplifyAutomation.csproj",
@@ -50,24 +136,25 @@
               "RelativeToolTip": "AmplifyAutomation\\AmplifyAutomation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-27T02:11:33.307Z"
+              "WhenOpened": "2025-03-27T02:11:33.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ReadMe.text",
               "DocumentMoniker": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\ReadMe.text",
               "RelativeDocumentMoniker": "AmplifyAutomation\\ReadMe.text",
               "ToolTip": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\ReadMe.text",
               "RelativeToolTip": "AmplifyAutomation\\ReadMe.text",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-27T02:12:48.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\nealw\\source\\repos\\wneal216\\Amplify.NETQA\\AmplifyAutomation\\AmplifyAutomation\\UnitTest1.cs",
               "RelativeDocumentMoniker": "AmplifyAutomation\\UnitTest1.cs",
@@ -75,7 +162,8 @@
               "RelativeToolTip": "AmplifyAutomation\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T02:09:10.189Z"
+              "WhenOpened": "2025-03-27T02:09:10.189Z",
+              "EditorCaption": ""
             }
           ]
         }

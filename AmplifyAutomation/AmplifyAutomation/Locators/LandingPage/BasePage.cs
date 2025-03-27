@@ -22,9 +22,10 @@ namespace AmplifyAutomation.Locators
         private IWebElement ConnectWithAnExpertButton => driver.FindElement(By.CssSelector(".a-btn.a-btn--primary.a-btn--small.main_popup_button"));
         //Here I am using by the general css selector
 
-        private IWebElement GreenStartSticker => driver.FindElement(by.ClassName("home-sticker"));
+        private IWebElement GreenStartSticker => driver.FindElement(By.ClassName("home-sticker"));
         //This is a little more specific and better practice, this is by class
 
+        //________________________________________________________________________________________________________________________________
 
         // These are my custom methods
 
@@ -35,9 +36,10 @@ namespace AmplifyAutomation.Locators
         }
 
         // This is also easy and just an Is Visible
-        public void GreenStartStickerIsVisible()
+        public bool IsGreenStartStickerVisible()
         {
-            GreenStartSticker.IsVisible = true;
+            return GreenStartSticker.Displayed;
         }
+
     }
 }
