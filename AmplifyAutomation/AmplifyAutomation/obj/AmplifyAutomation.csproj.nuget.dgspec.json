@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[5.0.0, )"
             },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            },
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.30.0, )"
@@ -86,9 +90,17 @@
               "target": "Package",
               "version": "[3.9.74, )"
             },
+            "TestRail": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "dotenv.net": {
+              "target": "Package",
+              "version": "[3.2.1, )"
             }
           },
           "imports": [
