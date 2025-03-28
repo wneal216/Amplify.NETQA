@@ -27,16 +27,32 @@ namespace AmplifyAutomation.StepDefinitions
 			driver.Navigate().GoToUrl(Config.BaseUrl);
         }
 
+		//____________________________________________________________________________________________________________
+
 		[When(@"the user clicks the Connect With an Expert button")]
 		public void WhenTheUserClicksTheConnectWithAnExpertButton()
 		{
 			basePage.ClickConnectWithAnExpertButton();
 		}
 
+		[When(@"the user clicks the Shop Button")]
+		public void WhenTheUserClicksTheShopButton()
+		{
+			basePage.ClickShopButton();	
+		}
+
+		//______________________________________________________________________________________________________________
+
 		[Then(@"the green start sticker should be visible")]
 		public void ThenTheGreenStartStickerShouldBeVisible()
 		{
 			Assert.IsTrue(basePage.IsGreenStartStickerVisible(), "Green start sticker was not visible.");
+		}
+
+		[Then(@"the shop button is visible")]
+		public void ThenTheShopButtonIsVisible()
+		{
+			Assert.IsTrue(basePage.IsShopButtonVisible(), "Shop Button was not visible.");
 		}
 	}
 }
