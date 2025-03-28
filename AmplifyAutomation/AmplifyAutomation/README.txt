@@ -89,3 +89,31 @@ ________________________________________________________________________________
 
 Wanted to add a couple more steps and buttons, but also noticed something else. I completely forgot to add a
 hook for the tear down after the test is done.
+
+__________________________________________________________________________________
+
+Was just going to throw together some Test Rail integrations in a config file, but I think to actually demo
+I should build it out in a .env
+
+Starting Test Rail Integration now, 
+
+The documentation is still really up to date
+
+https://support.testrail.com/hc/en-us/articles/7077152540692-Binding-NET-C-VB-NET#01G68HYY59GTXZMDXP7EXDPMSM
+
+
+first step will be grabbing RestSharp 
+
+Install-Package RestSharp
+
+Next I want an env for secrets like usernames and passwords
+
+Install-Package dotenv.net
+
+Also tried grabbing some stuff like Gurock but it wasn't working with dotnet very well. 
+
+Now I am having issues with .env reading my config file so I am debugging that
+
+Alright so big updates here, I wound up going with a simple Case Attribute helper, a break down for the after scenario
+
+and basically double, triple checking the base URL because the config + env weren't getting along. 

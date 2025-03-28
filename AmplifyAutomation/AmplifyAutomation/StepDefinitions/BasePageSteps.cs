@@ -49,7 +49,9 @@ namespace AmplifyAutomation.StepDefinitions
 			Assert.IsTrue(basePage.IsGreenStartStickerVisible(), "Green start sticker was not visible.");
 		}
 
-		[Then(@"the shop button is visible")]
+        // this is an example of how I would attach the TC's for test rail
+        [TestRailCase(2169)]
+        [Then(@"the shop button is visible")]
 		public void ThenTheShopButtonIsVisible()
 		{
 			Assert.IsTrue(basePage.IsShopButtonVisible(), "Shop Button was not visible.");
