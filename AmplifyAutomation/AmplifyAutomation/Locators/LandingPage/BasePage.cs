@@ -25,6 +25,8 @@ namespace AmplifyAutomation.Locators
         private IWebElement GreenStartSticker => driver.FindElement(By.ClassName("home-sticker"));
         //This is a little more specific and better practice, this is by class
 
+        private IWebElement ShopButton => driver.FindElement(By.Id("shop"));
+
         //________________________________________________________________________________________________________________________________
 
         // These are my custom methods
@@ -41,5 +43,14 @@ namespace AmplifyAutomation.Locators
             return GreenStartSticker.Displayed;
         }
 
+        public bool IsShopButtonVisible()
+        {
+            return ShopButton.Displayed;
+        }
+
+        public void ClickShopButton()
+        {
+            ShopButton.Click();
+        }
     }
 }

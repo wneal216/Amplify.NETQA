@@ -84,3 +84,8 @@ ________________________________________________________________________________
 Had a small config issue where I had thrown in a nonsense URL before adding in my baseURL. 
 
 Test ran with success !
+
+__________________________________________________________________________________
+
+Wanted to add a couple more steps and buttons, but also noticed something else. I completely forgot to add a
+hook for the tear down after the test is done.
